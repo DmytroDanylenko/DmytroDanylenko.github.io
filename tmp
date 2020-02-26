@@ -1,0 +1,30 @@
+ <ul class="navbar navbar-expand-sm col-7">
+        <a class="navbar-brand" href="#">
+          <img src="img/personalhub.png" alt="logo" id="logo"/>
+        </a>
+        <!-- Links -->
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Arbeitgeber</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Bewerber</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Wissen</a>
+          </li>
+        </ul>
+      </ul>
+      <section class="col-5 d-flex justify-content-end" id="header-btn-group">
+        <button type="button" class="btn-tel">
+          <img src="img/phone.png" src="tel" />
+          <span>
+            030 120 643 64
+          </span>
+        </button>
+        <button type="button" class="btn-beratung">
+          <span>
+            Zur Beratung
+          </span>
+        </button>
+      </section>
