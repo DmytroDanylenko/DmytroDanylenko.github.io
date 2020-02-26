@@ -433,6 +433,10 @@ textarea {
   margin-bottom: 2rem;
 }
 
+.top_block_image {
+  filter: invert(30%) sepia(44%) saturate(3676%) hue-rotate(206deg) brightness(83%) contrast(80%);
+}
+
 .block_title {
   color: #31364A;
   font-size: 24px;
